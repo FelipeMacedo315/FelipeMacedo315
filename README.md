@@ -1,6 +1,6 @@
 
 <h1>Olá me chamo Felipe !!! </h1>
-<p>Eu sou desenvolvedor Full-stack apaixonado por tecnologias web, eu tenho experiencia com projetos usando JavaScript, ReactJS, NodeJS Css, Html, Sass, Github. Estou cursando Sistemas de Informação e sempre estudando o que há de mais moderno sobre tecnologia.
+<p>Eu sou desenvolvedor Full-stack apaixonado por tecnologias web, eu tenho experiencia com projetos usando JavaScript, ReactJS,VueJS, NodeJS, MongoDB Css, Html, Sass, Github. Estou cursando Sistemas de Informação e sempre estudando o que há de mais moderno sobre tecnologia.
 </p>
 <div class='imagens'display='flex'>
   <img height='60' width='25%' src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'/>
