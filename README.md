@@ -22,7 +22,7 @@
 <br>
 
 <li>Atualmente sou estagiario na empresa Infoprice.</li>
-<li>Tenho experiencia com JavaScript, ReactJS, NodeJS, Css, Html, Sass, Github.</li>
+<li>Tenho experiencia com JavaScript, ReactJS, NodeJS, MongoDB, VueJS, Css, Html, Sass e Git.</li>
 <li>Veja meu linkedin: https://www.linkedin.com/in/felipe-macedo-silva-47585a138/</li>
 <br>
 
